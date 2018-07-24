@@ -1,0 +1,21 @@
+{
+    "name": "agprasha/yii2-example",
+    "description": "Jajal",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "agprasha",
+            "email": "agpraw@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "agprasha\\example\\": ""
+        }
+    }
+}
